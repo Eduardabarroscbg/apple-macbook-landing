@@ -83,8 +83,6 @@ src/
 - Fortalecimento de habilidades de **design responsivo** com Tailwind CSS.
 - Como adaptar e personalizar projetos web com conteúdo localizado.
 
-## 🔗 Links
-
 
 ## 🔗 Links
 - [Live Demo](https://apple-macbook-landing-i9ljqvcur-eduardas-projects-ea372f5b.vercel.app)
