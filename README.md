@@ -87,7 +87,5 @@ src/
 
 
 ## 🔗 Links
-- [Live Demo]
-## 🔗 Links
-- [Live Demo](https://mercedes-f1.vercel.app)
+- [Live Demo](https://apple-macbook-landing-i9ljqvcur-eduardas-projects-ea372f5b.vercel.app)
 - **GitHub:** [@Eduardabarroscbg](https://github.com/Eduardabarroscbg)
