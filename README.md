@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">🍏 Apple MacBook Pro Landing Page</h1>
 </div>
-...
+
 ![Project Preview](https://github.com/Eduardabarroscbg/apple-macbook-landing/blob/main/public/previews/desktop-preview.png)
 
 Uma landing page animada e funcional inspirada na página do Apple MacBook Pro M4, construída para explorar **modelagem 3D no desenvolvimento web** usando **Three.js**, **GSAP** e React moderno. O projeto foi desenvolvido em **português** com adaptações próprias.
