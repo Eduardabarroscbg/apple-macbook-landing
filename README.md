@@ -87,3 +87,5 @@ src/
 ## 🔗 Links
 - [Live Demo](https://apple-macbook-landing-jiyq.vercel.app?_vercel_share=fInlNse8QsG8fmak37Po2cejTYgXd6AA)
 - **GitHub:** [@Eduardabarroscbg](https://github.com/Eduardabarroscbg)
+  
+  Agradecimentos: Baseado em um estudo de caso do canal JavaScript Mastery com melhorias e personalizações próprias.
